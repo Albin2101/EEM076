@@ -144,12 +144,87 @@ OUTPUT lab1.pdf
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT ./1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT 1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT 1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT 1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT ./2.1 calculations.png
+INPUT ./2.1 calculations.png
+INPUT 2.1 calculations.png
+INPUT ./2.1 calculations.png
+INPUT ./2.1 calculations.png
+INPUT ./1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT 1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT 1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT ./3.1 calculations.png
+INPUT ./3.1 calculations.png
+INPUT 3.1 calculations.png
+INPUT ./3.1 calculations.png
+INPUT ./3.1 calculations.png
+INPUT ./1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT 1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT 1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT ./4.1 calculations.png
+INPUT ./4.1 calculations.png
+INPUT 4.1 calculations.png
+INPUT ./4.1 calculations.png
+INPUT ./4.1 calculations.png
+INPUT ./1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT 1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT 1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT ./5.1 calculations.png
+INPUT ./5.1 calculations.png
+INPUT 5.1 calculations.png
+INPUT ./5.1 calculations.png
+INPUT ./5.1 calculations.png
+INPUT ./1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT 1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT 1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT ./6.1 calculations.png
+INPUT ./6.1 calculations.png
+INPUT 6.1 calculations.png
+INPUT ./6.1 calculations.png
+INPUT ./6.1 calculations.png
+INPUT ./1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT 1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT ./1.1 calculation.png
+INPUT 1.1 calculation.png
+INPUT ./1.1 calculation.png
 INPUT lab1.aux
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
