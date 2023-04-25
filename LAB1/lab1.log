@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.10.12)  24 APR 2023 17:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.10.12)  25 APR 2023 19:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -53,155 +53,300 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 \Gin@req@width=\dimen140
 ) (/usr/share/texlive/texmf-dist/tex/latex/titlepic/titlepic.sty
 Package: titlepic 2017/03/14 1.2 Package to display a picture on the title page
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen141
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count193
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count194
+\leftroot@=\count195
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count196
+\DOTSCASE@=\count197
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count198
+\c@MaxMatrixCols=\count199
+\dotsspace@=\muskip16
+\c@parentequation=\count266
+\dspbrk@lvl=\count267
+\tag@help=\toks18
+\row@=\count268
+\column@=\count269
+\maxfields@=\count270
+\andhelp@=\toks19
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks20
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
 ) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count193
-\l__pdf_internal_box=\box50
+\l__color_backend_stack_int=\count271
+\l__pdf_internal_box=\box52
 ) (./lab1.aux)
 \openout1 = `lab1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count194
-\scratchdimen=\dimen141
-\scratchbox=\box51
-\nofMPsegments=\count195
-\nofMParguments=\count196
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count197
-\MPscratchDim=\dimen142
-\MPnumerator=\count198
-\makeMPintoPDFobject=\count199
-\everyMPtoPDFconversion=\toks18
+\scratchcounter=\count272
+\scratchdimen=\dimen150
+\scratchbox=\box53
+\nofMPsegments=\count273
+\nofMParguments=\count274
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count275
+\MPscratchDim=\dimen151
+\MPnumerator=\count276
+\makeMPintoPDFobject=\count277
+\everyMPtoPDFconversion=\toks23
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 22.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 22.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 22.
- [1
+/home/boken/repos/EEM076/LAB1/lab1.tex:25: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.25 \maketitle
+               
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<1.1 calculation.png, id=8, 678.535pt x 296.10625pt>
+<lab1eem076frontpage.png, id=1, 731.73375pt x 445.665pt>
+File: lab1eem076frontpage.png Graphic file (type png)
+<use lab1eem076frontpage.png>
+Package pdftex.def Info: lab1eem076frontpage.png  used on input line 27.
+(pdftex.def)             Requested size: 469.75499pt x 286.10866pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 27--29
+[][]
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./lab1eem076frontpage.png>]
+<1.1 calculation.png, id=11, 678.535pt x 296.10625pt>
 File: 1.1 calculation.png Graphic file (type png)
 <use 1.1 calculation.png>
-Package pdftex.def Info: 1.1 calculation.png  used on input line 32.
+Package pdftex.def Info: 1.1 calculation.png  used on input line 36.
 (pdftex.def)             Requested size: 469.75499pt x 204.99577pt.
-File: 1.1 calculation.png Graphic file (type png)
-<use 1.1 calculation.png>
-Package pdftex.def Info: 1.1 calculation.png  used on input line 42.
-(pdftex.def)             Requested size: 469.75499pt x 204.99577pt.
-File: 1.1 calculation.png Graphic file (type png)
-<use 1.1 calculation.png>
-Package pdftex.def Info: 1.1 calculation.png  used on input line 50.
-(pdftex.def)             Requested size: 469.75499pt x 204.99577pt.
+<circuits/Lab 1 Task 1-schematic.png, id=12, 1284.8pt x 899.36pt>
+File: circuits/Lab 1 Task 1-schematic.png Graphic file (type png)
+<use circuits/Lab 1 Task 1-schematic.png>
+Package pdftex.def Info: circuits/Lab 1 Task 1-schematic.png  used on input line 50.
+(pdftex.def)             Requested size: 469.75499pt x 328.81946pt.
  [2 <./1.1 calculation.png>]
-<2.1 calculations.png, id=16, 678.535pt x 296.10625pt>
+<2.1 calculations.png, id=23, 678.535pt x 296.10625pt>
 File: 2.1 calculations.png Graphic file (type png)
 <use 2.1 calculations.png>
-Package pdftex.def Info: 2.1 calculations.png  used on input line 62.
+Package pdftex.def Info: 2.1 calculations.png  used on input line 58.
 (pdftex.def)             Requested size: 469.75499pt x 204.99577pt.
-File: 1.1 calculation.png Graphic file (type png)
-<use 1.1 calculation.png>
-Package pdftex.def Info: 1.1 calculation.png  used on input line 72.
-(pdftex.def)             Requested size: 469.75499pt x 204.99577pt.
- [3 <./2.1 calculations.png>]
-File: 1.1 calculation.png Graphic file (type png)
-<use 1.1 calculation.png>
-Package pdftex.def Info: 1.1 calculation.png  used on input line 80.
-(pdftex.def)             Requested size: 469.75499pt x 204.99577pt.
-<3.1 calculations.png, id=21, 731.73375pt x 357.335pt>
+ [3 <./circuits/Lab 1 Task 1-schematic.png> <./2.1 calculations.png>]
+<circuits/Lab 1 Task 2-schematic.png, id=29, 1284.8pt x 899.36pt>
+File: circuits/Lab 1 Task 2-schematic.png Graphic file (type png)
+<use circuits/Lab 1 Task 2-schematic.png>
+Package pdftex.def Info: circuits/Lab 1 Task 2-schematic.png  used on input line 74.
+(pdftex.def)             Requested size: 469.75499pt x 328.81946pt.
+<3.1 calculations.png, id=30, 731.73375pt x 357.335pt>
 File: 3.1 calculations.png Graphic file (type png)
 <use 3.1 calculations.png>
-Package pdftex.def Info: 3.1 calculations.png  used on input line 90.
+Package pdftex.def Info: 3.1 calculations.png  used on input line 82.
 (pdftex.def)             Requested size: 469.75499pt x 229.40244pt.
- [4]
-File: 1.1 calculation.png Graphic file (type png)
-<use 1.1 calculation.png>
-Package pdftex.def Info: 1.1 calculation.png  used on input line 100.
-(pdftex.def)             Requested size: 469.75499pt x 204.99577pt.
-File: 1.1 calculation.png Graphic file (type png)
-<use 1.1 calculation.png>
-Package pdftex.def Info: 1.1 calculation.png  used on input line 108.
-(pdftex.def)             Requested size: 469.75499pt x 204.99577pt.
+ [4 <./circuits/Lab 1 Task 2-schematic.png>]
+<circuits/Lab 1 Task 3-schematic.png, id=36, 1284.8pt x 899.36pt>
+File: circuits/Lab 1 Task 3-schematic.png Graphic file (type png)
+<use circuits/Lab 1 Task 3-schematic.png>
+Package pdftex.def Info: circuits/Lab 1 Task 3-schematic.png  used on input line 110.
+(pdftex.def)             Requested size: 469.75499pt x 328.81946pt.
  [5 <./3.1 calculations.png>]
-<4.1 calculations.png, id=29, 731.73375pt x 357.335pt>
+<4.1 calculations.png, id=42, 731.73375pt x 357.335pt>
 File: 4.1 calculations.png Graphic file (type png)
 <use 4.1 calculations.png>
-Package pdftex.def Info: 4.1 calculations.png  used on input line 118.
+Package pdftex.def Info: 4.1 calculations.png  used on input line 117.
 (pdftex.def)             Requested size: 469.75499pt x 229.40244pt.
-File: 1.1 calculation.png Graphic file (type png)
-<use 1.1 calculation.png>
-Package pdftex.def Info: 1.1 calculation.png  used on input line 128.
-(pdftex.def)             Requested size: 469.75499pt x 204.99577pt.
- [6 <./4.1 calculations.png>]
-File: 1.1 calculation.png Graphic file (type png)
-<use 1.1 calculation.png>
-Package pdftex.def Info: 1.1 calculation.png  used on input line 136.
-(pdftex.def)             Requested size: 469.75499pt x 204.99577pt.
-<5.1 calculations.png, id=34, 729.72626pt x 385.44pt>
+ [6 <./circuits/Lab 1 Task 3-schematic.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 120--129
+
+ []
+
+<4.1curcuits.jpg, id=47, 2998.20125pt x 821.0675pt>
+File: 4.1curcuits.jpg Graphic file (type jpg)
+<use 4.1curcuits.jpg>
+Package pdftex.def Info: 4.1curcuits.jpg  used on input line 150.
+(pdftex.def)             Requested size: 469.75499pt x 128.64227pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 150--151
+[][] 
+ []
+
+[7 <./4.1 calculations.png>]
+<circuits/Lab 1 Task 4-schematic.png, id=54, 1284.8pt x 899.36pt>
+File: circuits/Lab 1 Task 4-schematic.png Graphic file (type png)
+<use circuits/Lab 1 Task 4-schematic.png>
+Package pdftex.def Info: circuits/Lab 1 Task 4-schematic.png  used on input line 156.
+(pdftex.def)             Requested size: 234.87749pt x 164.40286pt.
+<circuits/Lab 1 Task 4-schematic(2).png, id=55, 1284.8pt x 899.36pt>
+File: circuits/Lab 1 Task 4-schematic(2).png Graphic file (type png)
+<use circuits/Lab 1 Task 4-schematic(2).png>
+Package pdftex.def Info: circuits/Lab 1 Task 4-schematic(2).png  used on input line 157.
+(pdftex.def)             Requested size: 234.87749pt x 164.40286pt.
+<circuits/Lab 1 Task 4-schematic(1).png, id=56, 1284.8pt x 899.36pt>
+File: circuits/Lab 1 Task 4-schematic(1).png Graphic file (type png)
+<use circuits/Lab 1 Task 4-schematic(1).png>
+Package pdftex.def Info: circuits/Lab 1 Task 4-schematic(1).png  used on input line 158.
+(pdftex.def)             Requested size: 234.87749pt x 164.40286pt.
+<circuits/Lab 1 Task 4-schematic(3).png, id=57, 1284.8pt x 899.36pt>
+File: circuits/Lab 1 Task 4-schematic(3).png Graphic file (type png)
+<use circuits/Lab 1 Task 4-schematic(3).png>
+Package pdftex.def Info: circuits/Lab 1 Task 4-schematic(3).png  used on input line 159.
+(pdftex.def)             Requested size: 234.87749pt x 164.40286pt.
+
+Overfull \hbox (2.43332pt too wide) in paragraph at lines 154--160
+[] []
+ []
+
+
+Overfull \hbox (2.43332pt too wide) in paragraph at lines 154--160
+[] [] 
+ []
+
+<5.1 calculations.png, id=58, 729.72626pt x 385.44pt>
 File: 5.1 calculations.png Graphic file (type png)
 <use 5.1 calculations.png>
-Package pdftex.def Info: 5.1 calculations.png  used on input line 146.
+Package pdftex.def Info: 5.1 calculations.png  used on input line 167.
 (pdftex.def)             Requested size: 469.75499pt x 248.12167pt.
- [7]
-File: 1.1 calculation.png Graphic file (type png)
-<use 1.1 calculation.png>
-Package pdftex.def Info: 1.1 calculation.png  used on input line 156.
-(pdftex.def)             Requested size: 469.75499pt x 204.99577pt.
-File: 1.1 calculation.png Graphic file (type png)
-<use 1.1 calculation.png>
-Package pdftex.def Info: 1.1 calculation.png  used on input line 164.
-(pdftex.def)             Requested size: 469.75499pt x 204.99577pt.
- [8 <./5.1 calculations.png>]
-<6.1 calculations.png, id=43, 729.72626pt x 385.44pt>
+[8 <./4.1curcuits.jpg> <./circuits/Lab 1 Task 4-schematic.png> <./circuits/Lab 1 Task 4-schematic(2).png> <./circuits/Lab 1 Task 4-schematic(1).png> <./circuits/Lab 1 Task 4-schematic(3).png>]
+
+LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 171.
+
+
+LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 171.
+
+Missing character: There is no ² in font cmr10!
+<circuits/Lab 1 Task 5-schematic.png, id=66, 1284.8pt x 899.36pt>
+File: circuits/Lab 1 Task 5-schematic.png Graphic file (type png)
+<use circuits/Lab 1 Task 5-schematic.png>
+Package pdftex.def Info: circuits/Lab 1 Task 5-schematic.png  used on input line 179.
+(pdftex.def)             Requested size: 469.75499pt x 328.81946pt.
+[9 <./5.1 calculations.png>]
+<circuits/Lab 1 Task 5-Grapher.png, id=71, 1284.8pt x 1027.84pt>
+File: circuits/Lab 1 Task 5-Grapher.png Graphic file (type png)
+<use circuits/Lab 1 Task 5-Grapher.png>
+Package pdftex.def Info: circuits/Lab 1 Task 5-Grapher.png  used on input line 181.
+(pdftex.def)             Requested size: 469.75499pt x 375.79367pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 181--182
+[][] 
+ []
+
+[10 <./circuits/Lab 1 Task 5-schematic.png>]
+<6.1 calculations.png, id=76, 729.72626pt x 385.44pt>
 File: 6.1 calculations.png Graphic file (type png)
 <use 6.1 calculations.png>
-Package pdftex.def Info: 6.1 calculations.png  used on input line 174.
+Package pdftex.def Info: 6.1 calculations.png  used on input line 188.
 (pdftex.def)             Requested size: 469.75499pt x 248.12167pt.
-File: 1.1 calculation.png Graphic file (type png)
-<use 1.1 calculation.png>
-Package pdftex.def Info: 1.1 calculation.png  used on input line 184.
-(pdftex.def)             Requested size: 469.75499pt x 204.99577pt.
- [9 <./6.1 calculations.png>]
-File: 1.1 calculation.png Graphic file (type png)
-<use 1.1 calculation.png>
-Package pdftex.def Info: 1.1 calculation.png  used on input line 192.
-(pdftex.def)             Requested size: 469.75499pt x 204.99577pt.
- [10] (./lab1.aux) ) 
+ [11 <./circuits/Lab 1 Task 5-Grapher.png>]
+<circuits/Lab 1 Task 6-schematic.png, id=81, 1284.8pt x 899.36pt>
+File: circuits/Lab 1 Task 6-schematic.png Graphic file (type png)
+<use circuits/Lab 1 Task 6-schematic.png>
+Package pdftex.def Info: circuits/Lab 1 Task 6-schematic.png  used on input line 218.
+(pdftex.def)             Requested size: 469.75499pt x 328.81946pt.
+ [12 <./6.1 calculations.png>]
+<circuits/Lab 1 Task 6-Grapher.png, id=86, 1284.8pt x 1027.84pt>
+File: circuits/Lab 1 Task 6-Grapher.png Graphic file (type png)
+<use circuits/Lab 1 Task 6-Grapher.png>
+Package pdftex.def Info: circuits/Lab 1 Task 6-Grapher.png  used on input line 220.
+(pdftex.def)             Requested size: 469.75499pt x 375.79367pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 220--221
+[][] 
+ []
+
+[13 <./circuits/Lab 1 Task 6-schematic.png>] [14 <./circuits/Lab 1 Task 6-Grapher.png>] (./lab1.aux) ) 
 Here is how much of TeX's memory you used:
- 1464 strings out of 478287
- 24469 string characters out of 5849288
- 313126 words of memory out of 5000000
- 19683 multiletter control sequences out of 15000+600000
- 473506 words of font info for 42 fonts, out of 8000000 for 9000
+ 2848 strings out of 478287
+ 49011 string characters out of 5849288
+ 339558 words of memory out of 5000000
+ 21001 multiletter control sequences out of 15000+600000
+ 475361 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,62p,232b,193s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on lab1.pdf (10 pages, 349371 bytes).
+ 60i,14n,67p,232b,192s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on lab1.pdf (14 pages, 1249383 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+ 143 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
 
